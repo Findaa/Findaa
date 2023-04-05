@@ -20,7 +20,7 @@ For newest code progress check organisation training project: <br/>
     <a href="https://github.com/imperio-linode" target="_blank" rel="noreferrer"><b>Imperio Linode Manager</b></a>
  </p>
  
-
+<p align="center">
 Feel free to contact through it or<br/>
 michalcop@bntech.dev
 </p>
