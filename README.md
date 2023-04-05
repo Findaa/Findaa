@@ -5,7 +5,7 @@
 Hello, I am programming since 2018 and this is my private repository.
 </p>
 <p align="center">
-🌐 Offers & description of what we can do 🌐 <br/> 
+🌐 Website 🌐 <br/> 
   <a href="https://bntech.dev" target="_blank" rel="noreferrer"><b>https://bntech.dev</b></a>
 </p>
 <p align="center">
