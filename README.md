@@ -14,11 +14,6 @@ Hello, I am programming since 2018 and this is my private repository.
 <p align="center">
 ⛅ As my interest and past-time coding I pick up new technology trends, like doing reactive spring services and deploying them in cloud environment using Istio or nginx. I am using Jetbrains Space as git repo and task recorder. ⛅ 
 </p>
-
-<p align="center">
-For newest code progress check organisation training project: <br/>
-    <a href="https://github.com/imperio-linode" target="_blank" rel="noreferrer"><b>Imperio Linode Manager</b></a>
- </p>
  
 <p align="center">
 Feel free to contact through it or<br/>
