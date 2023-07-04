@@ -9,7 +9,7 @@ Hello, I am programming since 2018 and this is my private repository.
   <a href="https://bntech.dev" target="_blank" rel="noreferrer"><b>https://bntech.dev</b></a>
 </p>
 <p align="center">
-👨‍💻 I am working full time for one of web project companies in dns oriented project.</a> 👨‍💻
+👨‍💻 I am working full time developing award winning procurement application, serving as devops and backend engineer.</a> 👨‍💻
 </p>
 <p align="center">
 ⛅ As my interest and past-time coding I pick up new technology trends, like doing reactive spring services and deploying them in cloud environment using Istio or nginx. I am using Jetbrains Space as git repo and task recorder. ⛅ 
